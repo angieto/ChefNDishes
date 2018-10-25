@@ -1,0 +1,11 @@
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.csprojAssemblyReference.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.csproj.CoreCompileInputs.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.AssemblyInfoInputs.cache
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.AssemblyInfo.cs
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\bin\Debug\netcoreapp2.0\ChefsNDishes.deps.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\bin\Debug\netcoreapp2.0\ChefsNDishes.runtimeconfig.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\bin\Debug\netcoreapp2.0\ChefsNDishes.runtimeconfig.dev.json
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\bin\Debug\netcoreapp2.0\ChefsNDishes.dll
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\bin\Debug\netcoreapp2.0\ChefsNDishes.pdb
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.dll
+C:\Users\angie\Desktop\coding-dojo\c#\ORMS\ChefsNDishes\obj\Debug\netcoreapp2.0\ChefsNDishes.pdb

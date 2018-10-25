@@ -1,0 +1,40 @@
+@model ChefsNDishes.Models.Chef
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>ChefsNDishes</title>
+</head>
+<body>
+    <div class="container-fluid my-5">
+        <div class="container">
+            <div class="container row">
+                <h2 class="d-inline text-danger">Add a Chef!</h2>
+                <a class="ml-auto" href="/">Home</a>
+            </div>
+            <hr>
+            <div class="container mx-auto text-center col-8">
+                <form class="form-group mt-5 d-flex align-items-center flex-column justify-content-center" asp-action="AddChef" asp-controller="Home" method="post" class="form-group mt-5">
+                    <span class="text-danger mt-3" asp-validation-for="FirstName"></span>
+                    <input class="form-control col-8 mt-3" type="text" asp-for="FirstName" placeholder="First name">
+        
+                    <span class="text-danger mt-3" asp-validation-for="LastName"></span>
+                    <input class="form-control col-8 mt-3" type="text" asp-for="LastName" placeholder="Last name">
+                    
+                    <span class="text-danger mt-3" asp-validation-for="DOB"></span>
+                    <span>Date of Birth</span>
+                    <input class="form-control col-8 mt-3" type="date" asp-for="DOB">
+        
+                    <button type="submit" class="btn btn-primary mt-3">Add Chef</button>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+</html>
